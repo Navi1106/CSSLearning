@@ -1,3 +1,33 @@
 body{
     background-color: gray;
 }
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+}
+
+header{
+    background-color: #666666;
+    border-radius: 2px solid #FF0000;
+}
+
+nav{
+    text-align: center;
+    font-size: xx-large ;
+}
+
+a{
+    text-decoration: none;
+    display: block;
+    overflow: visible;
+    
+}
+
+h2{
+    color: #666666;
+    background: #00b7ea
+}
